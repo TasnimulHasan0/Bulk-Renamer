@@ -41,7 +41,7 @@ If you don't know where to find the path for the folder and the txt file,
 
 3. locate the **Folder** and click on 3 dots on the right side of the **Folder** then click on info and long press on the path. Example- /storage/emulated/0/Download
 
-4. Paste the **Folders** path into termux after the last command and press enter 
+4. Paste the **Folder's** path into termux after the last command and press enter 
 
 5. Do the same with the .txt file and press enter. Your files should get renamed.
 
