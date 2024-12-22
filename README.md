@@ -4,7 +4,7 @@ Bulk rename files using .txt wordlist in termux (root needed)
 #### Manually
 **Installing requirements**
  ```
-apt update && apt upgrade && pkg update && pkg upgrade
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y
  ```
  ```
 pkg install git -y
