@@ -39,7 +39,7 @@ If you don't know where to find the path for the folder and the txt file,
 
 2. Select internal Storage
 
-3. locate the **Folder** and click on 3 dots on the right side of the **Folder** then long press on the path. Example- /storage/emulated/0/Download
+3. locate the **Folder** and click on 3 dots on the right side of the **Folder** then click on info and long press on the path. Example- /storage/emulated/0/Download
 
 4. Paste the **Folders** path into termux after the last command and press enter 
 
